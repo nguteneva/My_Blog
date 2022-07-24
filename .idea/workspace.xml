@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9248256a-18f1-4036-ac50-2cd9ead4e883" name="Changes" comment="Commit ivitial version of personal blog">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
-    </list>
+    <list default="true" id="9248256a-18f1-4036-ac50-2cd9ead4e883" name="Changes" comment="Add gunicorn and Procfile" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658688903735</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add gunicorn and Procfile">
+      <created>1658690318536</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658690318536</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,6 +114,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit ivitial version of personal blog" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit ivitial version of personal blog" />
+    <MESSAGE value="Add gunicorn and Procfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add gunicorn and Procfile" />
   </component>
 </project>
